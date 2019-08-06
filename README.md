@@ -1,2 +1,4 @@
 # hello-world
-starting github tutorial
+
+Name = Harshad
+print ("Name is " , Name)
